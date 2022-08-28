@@ -16,6 +16,8 @@ See https://openid.net/connect/faq/ for a set of answers to Frequently Asked Que
 
 ## How is OpenID Connect different than OpenID 2.0?
 
+![openid-connect](https://github.com/paulveillard/cybersecurity-openid/blob/main/img/oidc_protocol_suite.png)
+
 OpenID Connect performs many of the same tasks as OpenID 2.0, but does so in a way that is API-friendly, and usable by native and mobile applications. OpenID Connect defines optional mechanisms for robust signing and encryption. Whereas integration of OAuth 1.0a and OpenID 2.0 required an extension, in OpenID Connect, OAuth 2.0 capabilities are integrated with the protocol itself.
 
 
